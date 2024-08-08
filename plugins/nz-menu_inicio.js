@@ -14,9 +14,9 @@ También pueden seguirnos en nuestro canal oficial de WhatsApp para recibir info
 Antes de comenzar a utilizar el bot, no se olvide de *verificarse o registrarse* para usar todos los comandos libremente👇
 `
 await conn.sendButton(m.chat, menu, wm, imagebot, [
-['𝙈𝙀𝙉𝙐 𝘾𝙊𝙈𝙋𝙇𝙀𝙏𝙊 💥', '.menucompleto'],
-['𝘼𝙐𝙏𝙊 𝙑𝙀𝙍𝙄𝙁𝙄𝘾𝘼𝙍 ✅', '#reg Newtwo.20']], null, [
-['𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇🌎', `${canal}`]], null, null, fkontak)}
+['𝑴𝑬𝑵𝑼 𝑪𝑶𝑴𝑷𝑳𝑬𝑻𝑶 💥', '.menucompleto'],
+['𝑨𝑼𝑻𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑹 ✅', '#reg Newtwo.20']], null, [
+['𝑪𝑨𝑵𝑨𝑳 𝑶𝑭𝑰𝑪𝑰𝑨𝑳 🌎', `${canal}`]], null, null, fkontak)}
 handler.command = /^menu|help|comandos|memu|menú|memú$/i
 handler.register = false
 export default handler
