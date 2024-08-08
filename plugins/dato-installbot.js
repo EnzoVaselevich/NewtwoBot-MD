@@ -4,7 +4,7 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let str = `
 ╭─────────────────···•⊰ ⋆
 │🪐 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗖𝗜𝗢𝗡 𝗗𝗘𝗟 𝗕𝗢𝗧 🪐
-│NaufraZapp-MD
+│NewtwoBot-MD
 ╰─────────────────···•⊰ ⋆
 
 𝗖𝗼𝗽𝗶𝗮 𝗹𝗼𝘀 𝗰𝗼𝗺𝗮𝗻𝗱𝗼𝘀 𝘂𝗻𝗼 𝗽𝗼𝗿 𝘂𝗻𝗼
@@ -14,7 +14,7 @@ termux-setup-storage
 
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 
-git clone https://github.com/MultiBot-OFC/NaufraZapp-MD && cd NaufraZapp-MD
+git clone https://github.com/EnzoVaselevich/NewtwoBot-MD && cd NewtwoBot-MD
 
 yarn install && npm install
 •─────────────────···•⊰ ⋆
