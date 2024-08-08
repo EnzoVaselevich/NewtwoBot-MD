@@ -11,7 +11,7 @@ if (new Date - global.db.data.users[m.sender].lastmonedas < 600000) throw `*『�
 global.db.data.users[m.sender].lastmonedas = new Date * 1  
   
 
-conn.reply(m.chat, `${minar} \`${d}\` *de NaufraCoins* 🪙`, m)
+conn.reply(m.chat, `${minar} \`${d}\` *de NewtwoCoins* 🪙`, m)
 }
 handler.help = ['minar']
 handler.tags = ['rol']
