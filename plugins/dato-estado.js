@@ -30,7 +30,7 @@ let estado = `
 • ${wm}
 `
 await conn.sendButton(m.chat, estado, 'Estado del bot.', pp, [
-['𝗠𝗲𝗻𝘂 🔜', '.menu']], null, [['𝗖𝗮𝗻𝗮𝗹 🔜', `${canal}`]], m)
+['ᴍᴇɴᴜ 🔜', '.menu']], null, [['ᴄᴀɴᴀʟ 🔜', `${canal}`]], m)
 }
 handler.help = ['estado']
 handler.tags = ['main']
