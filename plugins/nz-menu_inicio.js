@@ -3,7 +3,7 @@ let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let menu = `•═══• ❮🌎 \`BIENVENIDO/A\` 🌎❯ •═══•
 
-☛  NewtwoBot-MD fue creɑdo pɑrɑ *facilitar y mejorar el manejo de tus grupos de WhatsApp* y *brindarte muchas herrɑmientɑs de entretenimiento pɑrɑ tus grupos y etc, puedes ver el menu completo tocando el botón que dice menu completo en este mensaje.*  
+☛  NewtwoBot-MD fue creɑdo pɑrɑ *facilitar y mejorar el manejo de tus grupos de WhatsApp* y *brindarte muchas herramientas de entretenimiento para tus grupos y etc, puedes ver el menu completo tocando el botón que dice menu completo en este mensaje.*  
 
 💥 Recuerda que este bot está en desarrollo y puede no andar correctamente 💥
 
