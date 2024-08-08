@@ -22,7 +22,7 @@ const handler = async (m, {isPrems, conn}) => {
 │🧧 Tokens:
 │ *${tok}*
 ├•─────────────•
-│🪙 NaufraCoins:
+│🪙 NewtwoCoins:
 │*${mystic}*
 ├•─────────────•
 │⚡ Experiencia:
