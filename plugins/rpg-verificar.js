@@ -6,7 +6,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
   //let pp = await this.profilePictureUrl(who, 'image').catch(_ => 'https://i.postimg.cc/Bbg6n5zQ/IMG-20240421-WA0274.jpg')
   if (user.registered === true) throw `*『✦』Ya estas registrado, para volver a registrarte, usa el comando: #myns*`
-  if (!Reg.test(text)) throw `*『✦』El comando ingresado es incorrecto, uselo de la siguiente manera:*\n\n#reg *Nombre.edad*\n\n\`\`\`Ejemplo:\`\`\`\n#reg *Naufrago.19*`
+  if (!Reg.test(text)) throw `*『✦』El comando ingresado es incorrecto, uselo de la siguiente manera:*\n\n#reg *Nombre.edad*\n\n\`\`\`Ejemplo:\`\`\`\n#reg *NewtwoBot-MD.19*`
   let [_, name, splitter, age] = text.match(Reg)
   if (!name) throw '*『✦』No puedes registrarte sin nombre, el nombre es obligatorio. Inténtelo de nuevo.*'
   if (!age) throw '*『✦』No puedes registrarte sin la edad, la edad es opcional. Inténtelo de nuevo.*'
@@ -36,7 +36,7 @@ text: regbot,
 contextInfo: {
 externalAdReply: {
 title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥✅』⊰',
-body: 'Ya estas registrado/a en NaufraZapp-MD', 
+body: 'Ya estas registrado/a en NewtwoBot-MD', 
 thumbnaiUrl: img, 
 sourceUrl: `https://youtube.com/@naufrazapp_empresas?si=jW7QACctxQLT-8Ab`,
 mediaType: 1,
