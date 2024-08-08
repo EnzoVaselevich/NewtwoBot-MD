@@ -16,8 +16,8 @@ let str = `❮🌎❯ » *_BIENVENIDO A LOS GRUPOS OFICIALES DEL BOT._*
 
 •────────────────•`
 await conn.sendButton(m.chat, str, wm, media, [
-['MENU COMPLETO 🔜', '.allmenu']], null, [
-['CANAL 🔜', `${canal}`]], m)}
+['ᴍᴇɴᴜ ᴄᴏᴍᴘʟᴇᴛᴏ 🔜', '.allmenu']], null, [
+['ᴄᴀɴᴀʟ 🔜', `${canal}`]], m)}
 
 handler.command = /^linkgc|grupos|gruposnz|nzgrupos$/i
 handler.register = true
