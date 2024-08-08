@@ -32,7 +32,7 @@ const yt = await youtubedl(v).catch(async _ => await youtubedlv2(v))
 const dl_url = await yt.video[q].download()
 const ttl = await yt.title
 const size = await yt.video[q].fileSizeH
-await await conn.sendMessage(m.chat, { video: { url: dl_url }, fileName: `${ttl}.mp4`, mimetype: 'video/mp4', caption: `${ttl}\n\n• _NaufraZapp-MD_`, thumbnail: await fetch(yt.thumbnail) }, { quoted: m })
+await await conn.sendMessage(m.chat, { video: { url: dl_url }, fileName: `${ttl}.mp4`, mimetype: 'video/mp4', caption: `${ttl}\n\n• _NewtwoBot-MD_`, thumbnail: await fetch(yt.thumbnail) }, { quoted: m })
 } catch (E1) {
 //console.log('Error 1 ' + E1)  
 try {  
