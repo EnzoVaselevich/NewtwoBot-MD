@@ -3,15 +3,11 @@ let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let menu = `•═══• ❮🌎 \`BIENVENIDO/A\` 🌎❯ •═══•
 
-☛  NewtwoBot-MD fue creɑdo pɑrɑ *fɑcilitɑr el mɑnejo de tus grupos de Whɑtsɑpp* y *brindɑrte errɑmientɑs de entretenimiento pɑrɑ tus grupos.*  
+☛  NewtwoBot-MD fue creɑdo pɑrɑ *fɑcilitɑr el mɑnejo de tus grupos de Whɑtsɑpp* y *brindɑrte herrɑmientɑs de entretenimiento pɑrɑ tus grupos y etc, puedes ver el menu completo tocando el botón que dice menu completo en este mensaje.*  
 
-💥ɑnteriormente este bot erɑ *privɑdo* pero devido ɑ que muchos usuɑrios tɑmbién queriɑn instɑlɑrlo por ellos mismos se lɑnzo lɑ versión públicɑ de este mɑrɑvilloso bot, pɑrɑ que todos puedɑn disfrutɑrlo💥
+💥 Recuerda que este bot está en desarrollo y puede no andar correctamente 💥
 
-🫂ɢʀᴀᴄɪᴀs ᴀ ᴛᴏᴅᴏs ʟᴏs ᴄᴏʟᴀʙᴏʀᴀᴅᴏʀᴇs ᴘᴏʀ ᴇsᴛᴇ ᴍᴀʀᴀᴠɪʟʟᴏsᴏ ᴘʀᴏʏᴇᴄᴛᴏ🤗
-
-También pueden seguirnos en nuestro canal oficial de WhatsApp para recibir información del bot y también para participar en algunos sorteos💥
-
-Antes de comenzar a utilizar el bot, no se olvide de *verificarse o registrarse* para usar todos los comandos libremente👇
+Antes de comenzar a utilizar el bot, no se olvide de *verificarse o registrarse* para usar todos los comandos sin ninguna restricción, toque el botón auto verificar para registrarte👇
 `
 await conn.sendButton(m.chat, menu, wm, imagebot, [
 ['ᴍᴇɴᴜ ᴄᴏᴍᴘʟᴇᴛᴏ 💫', '.menucompleto'],
