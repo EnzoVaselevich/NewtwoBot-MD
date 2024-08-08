@@ -4,7 +4,7 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let str = `
 ╭─────────────────···•⊰ ⋆
 │👋🏻 Hola usuario/a
-│soy NaufraZapp-MD
+│soy NewtwoBot-MD
 ╰─────────────────···•⊰ ⋆
 
 • ❕ \`Solo funciona si la funcion de audios esta activa.\`
