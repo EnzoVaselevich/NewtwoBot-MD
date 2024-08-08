@@ -16,7 +16,7 @@ Antes de comenzar a utilizar el bot, no se olvide de *verificarse o registrarse*
 await conn.sendButton(m.chat, menu, wm, imagebot, [
 ['ᴍᴇɴᴜ ᴄᴏᴍᴘʟᴇᴛᴏ 💫', '.menucompleto'],
 ['ᴀᴜᴛᴏ ᴠᴇʀɪғɪᴄᴀʀ ✨', '#reg Newtwo.20']], null, [
-['ᴄᴀɴᴀʟ ᴏғɪᴄɪᴀʟ 🌠', `${canal}`]], null, null, fkontak)}
+['ɢʀᴜᴘᴏ ᴏғɪᴄɪᴀʟ 🌠', `${canal}`]], null, null, fkontak)}
 handler.command = /^menu|help|comandos|memu|menú|memú$/i
 handler.register = false
 export default handler
