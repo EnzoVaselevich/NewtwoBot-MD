@@ -23,8 +23,8 @@ yarn install && npm install
 
 npm start`
 await conn.sendButton(m.chat, str, wm, imagebot, [
-['IR AL MENU 🏷️', '.allmenu'],
-['GRUPOS 🎳', '#gruposnz']], `termux-setup-storage && apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn && git clone https://github.com/MultiBot-OFC/NaufraZapp-MD && cd NaufraZapp-MD && yarn install && npm install`, [['DESCARGAR TERMUX', 'https://f-droid.org/repo/com.termux_1020.apk']], fkontak)}
+['ɪʀ ᴀʟ ᴍᴇɴᴜ 🏷️', '.allmenu'],
+['ɢʀᴜᴘᴏs 🎳', '#gruposnz']], `termux-setup-storage && apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn && git clone https://github.com/MultiBot-OFC/NaufraZapp-MD && cd NaufraZapp-MD && yarn install && npm install`, [['DESCARGAR TERMUX', 'https://f-droid.org/repo/com.termux_1020.apk']], fkontak)}
 handler.command = /^installbot|instalarbot|installnz$/i
 //handler.private = true
 handler.register = true
