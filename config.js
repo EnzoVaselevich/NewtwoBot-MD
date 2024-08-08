@@ -8,7 +8,8 @@ import axios from 'axios';
 import moment from 'moment-timezone'
 
 global.owner = [ //OWNERS
-["5491168758497", 'EnzitoOfc', true]]
+["5491168758497", 'EnzitoOfc', true],
+["5492215034412", 'Matias-crypto']]
 
 global.botNumberCode = ''
 global.confirmCode = ''
