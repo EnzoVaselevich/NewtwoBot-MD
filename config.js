@@ -42,10 +42,10 @@ global.imgAll = fs.readFileSync('./Menu1.jpg')
 global.naufraAll = 'https://chat.whatsapp.com/GM7KnXU35gZKBA3MjbAUtH'
 global.nzLink = 'https://chat.whatsapp.com/GM7KnXU35gZKBA3MjbAUtH'
 global.nzMenus = fs.readFileSync('./Menu2.jpg')
-global.naufraImg = 'https://telegra.ph/file/479af74a9f4bcfc095f19.jpg'
+global.naufraImg = 'https://telegra.ph/file/80a6799ee3a959116794e.jpg'
 	
 //Imagenes
-global.imagen1 = 'https://telegra.ph/file/479af74a9f4bcfc095f19.jpg'
+global.imagen1 = https://telegra.ph/file/80a6799ee3a959116794e.jpg'
 global.imagen2 = fs.readFileSync('./Menu2.jpg')
 global.imagen3 = fs.readFileSync('./Menu3.jpg')
 global.imagen4 = fs.readFileSync('./imagenes/naufra1.jpg')
