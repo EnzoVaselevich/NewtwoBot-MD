@@ -8,38 +8,26 @@ import axios from 'axios';
 import moment from 'moment-timezone'
 
 global.owner = [ //OWNERS
-["5493873232212", '𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥-𝙈𝘿', true], 
-["573108625104"],
-["34626817680"],
-["5493873232221"],
-["523142183828"],
-["51918534156"],
-["527421168105"],
-["5491125655633"],
-["51929838430"],
-["529982464299"],
-["51921207166"],
-["5491125730852"],
-["5491133980551"]]
+["5491168758497", 'EnzitoOfc', true]]
 
 global.botNumberCode = ''
 global.confirmCode = ''
 
-global.suittag = ['5493873232212']
+global.suittag = ['5491168758497']
 global.mods = []
 global.prems = []
 
 
-global.isdev = [['5493873232212'],
-['5493873232221'],
-['51929838430']]
+global.isdev = [['5491168758497'],
+['5491168758497'],
+['5491168758497']]
 
 
-global.packname = '𝙉𝘢𝘶𝘧𝘳𝘢𝙕𝘢𝘱𝘱-𝙈𝘋'
-global.author = '𝙉𝙖𝙪𝙛𝙧𝙖𝙜𝙤'
-global.wm = '𝙉𝘢𝘶𝘧𝘳𝘢𝙕𝘢𝘱𝘱-𝙈𝘋 │ ᵐᵘˡᵗⁱᵇᵒᵗ-ᵒᶠᶜ'
-global.wm2 = '𝙉𝘡│ᵇᵒᵗ'
-global.naufrago = '𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥│ᴄᴀɴᴀʟ • ʸᵗ'
+global.packname = '𝑵𝒆𝒘𝒕𝒘𝒐𝑩𝒐𝒕-𝑴𝑫'
+global.author = '𝙽𝚎𝚠𝚝𝚠𝚘𝙱𝚘𝚝'
+global.wm = '𝙉𝙚𝙬𝙩𝙬𝙤𝘽𝙤𝙩-𝙈𝘿 │ ᵐᵘˡᵗⁱᵇᵒᵗ-ᵒᶠᶜ'
+global.wm2 = 'NW│ᵇᵒᵗ'
+global.naufrago = '【ＮｅｗｔｗｏＢｏｔ－ＭＤ】│ᴄᴀɴᴀʟ • ʸᵗ'
 global.cb = '🅽︎🆉︎︎'
 
 global.vs = '1.8.0'
@@ -51,13 +39,13 @@ global.dev = '✯ Naufrago ✯'
 global.devnum = '+54 9 3873 23-2212'
 
 global.imgAll = fs.readFileSync('./Menu1.jpg')
-global.naufraAll = 'https://whatsapp.com/channel/0029VaRibRvDuMRj6ozMSN1l'
-global.nzLink = 'https://chat.whatsapp.com/I7A2Q6EXtmE6d7zOxyYF3L'
+global.naufraAll = 'https://chat.whatsapp.com/GM7KnXU35gZKBA3MjbAUtH'
+global.nzLink = 'https://chat.whatsapp.com/GM7KnXU35gZKBA3MjbAUtH'
 global.nzMenus = fs.readFileSync('./Menu2.jpg')
-global.naufraImg = 'https://telegra.ph/file/4c4de4fbd4b87fc6c397d.jpg'
+global.naufraImg = 'https://telegra.ph/file/479af74a9f4bcfc095f19.jpg'
 	
 //Imagenes
-global.imagen1 = 'https://telegra.ph/file/4c4de4fbd4b87fc6c397d.jpg'
+global.imagen1 = 'https://telegra.ph/file/479af74a9f4bcfc095f19.jpg'
 global.imagen2 = fs.readFileSync('./Menu2.jpg')
 global.imagen3 = fs.readFileSync('./Menu3.jpg')
 global.imagen4 = fs.readFileSync('./imagenes/naufra1.jpg')
@@ -77,44 +65,44 @@ global.imagen16 = fs.readFileSync('./imagenes/naufra13.jpg')
 global.nzImg1 = fs.readFileSync('./Menu1.jpg')
 global.nzImg2 = fs.readFileSync('./Menu2.jpg')
 
-global.nz1 = 'https://i.postimg.cc/j5T9x8L4/f0304022-da50-4a0a-8be4-6b4138bab3af.jpg'
-global.nz2 = 'https://i.postimg.cc/8zq93kG3/c9737e9e-4e19-4f75-95d3-e56c746fb97e.jpg'
-global.nz3 = 'https://i.postimg.cc/GtK1wWKD/db93517c-0588-4a1b-b9a7-641b235597ad.jpg'
-global.nz4 = 'https://i.postimg.cc/cLb0JNSM/474106d3-382b-4964-af1e-fbfb35d495cd.jpg'
-global.nz5 = 'https://i.postimg.cc/PqvxZdBD/06efe094-8f28-444e-b3d4-7474a9ee7f3e.jpg'
-global.nz6 = 'https://i.postimg.cc/MTjTwpfQ/3f77dcb2-f688-4720-ab08-2c41a86c5216.jpg'
+global.nz1 = 'https://telegra.ph/file/f42defd8e0a0c6c002c2b.jpg'
+global.nz2 = 'https://telegra.ph/file/ccded0c9af161205a9b6a.jpg'
+global.nz3 = 'https://telegra.ph/file/608aa9b88a3f583d1518a.jpg'
+global.nz4 = 'https://telegra.ph/file/8a577d03cf6f4a08faa19.jpg'
+global.nz5 = 'https://telegra.ph/file/d5876e39c596cc5e5dd57.jpg'
+global.nz6 = 'https://telegra.ph/file/7a410e289b4aef7b3ef55.jpg'
 
 global.img = 'https://i.postimg.cc/Y9t2mzvt/Menu2.jpg'
 global.img1 = 'https://i.postimg.cc/T386DJsB/Menu3.jpg'
 global.img2 = 'https://i.postimg.cc/T386DJsB/Menu3.jpg'
 global.img3 = 'https://i.postimg.cc/43sR8Ns5/Menu4.jpg'
-global.img4 = 'https://i.postimg.cc/j5T9x8L4/f0304022-da50-4a0a-8be4-6b4138bab3af.jpg'
-global.img5 = 'https://i.postimg.cc/j5T9x8L4/f0304022-da50-4a0a-8be4-6b4138bab3af.jpg'
-global.img6 = 'https://i.postimg.cc/8zq93kG3/c9737e9e-4e19-4f75-95d3-e56c746fb97e.jpg'
-global.img7 = 'https://i.postimg.cc/8zq93kG3/c9737e9e-4e19-4f75-95d3-e56c746fb97e.jpg'
-global.img8 = 'https://i.postimg.cc/GtK1wWKD/db93517c-0588-4a1b-b9a7-641b235597ad.jpg'
-global.img9 = 'https://i.postimg.cc/cLb0JNSM/474106d3-382b-4964-af1e-fbfb35d495cd.jpg'
-global.img10 = 'https://i.postimg.cc/PqvxZdBD/06efe094-8f28-444e-b3d4-7474a9ee7f3e.jpg'
+global.img4 = 'https://telegra.ph/file/0d1bb600d2d2825985b28.jpg'
+global.img5 = 'https://telegra.ph/file/71eded9ff7d42eb241396.jpg'
+global.img6 = 'https://telegra.ph/file/a6a743a556c1b1d5aa7b0.jpg'
+global.img7 = 'https://telegra.ph/file/a0b6ccc430f6af87a6005.jpg'
+global.img8 = 'https://telegra.ph/file/dbad5ac712a496d3ea3dd.jpg'
+global.img9 = 'https://telegra.ph/file/b22c506a1c934e4f1414b.jpg'
+global.img10 = 'https://telegra.ph/file/0cce1fb7a9cf817261fa4.jpg'
 
-global.iimg1 = 'https://i.postimg.cc/t4KK7yy7/11fe6d78ece25ee972ee8de229e182a9.jpg'
-global.iimg2 = 'https://i.postimg.cc/5t5R0Cnk/66945863cdf7c56b212c2280e91d497b.jpg'
-global.iimg3 = 'https://i.postimg.cc/x1D5zdJr/0c967c4af27aa805391e3be495936acd.jpg'
-global.iimg4 = 'https://i.postimg.cc/kM2LNB4D/89aaf3a76c5af6c6904716889463a278.jpg'
-global.iimg5 = 'https://i.postimg.cc/gJntKTG1/e872a51954db06122d6108df482ef157.jpg'
+global.iimg1 = 'https://telegra.ph/file/b39d19db00f91a9633be6.jpg'
+global.iimg2 = 'https://telegra.ph/file/feaa2f95715e49a71275a.jpg'
+global.iimg3 = 'https://telegra.ph/file/feaa2f95715e49a71275a.jpg'
+global.iimg4 = 'https://telegra.ph/file/feaa2f95715e49a71275a.jpg'
+global.iimg5 = 'https://telegra.ph/file/feaa2f95715e49a71275a.jpg'
 
-global.yt = 'https://youtube.com/@user-bw5wl4ye8r?si=qN8bP4ZdKm3yXwbx'
-global.ig = 'https://www.instagram.com/naufrazapp?igsh=Y2g1ZXJxbm53eXAy'
-global.md = 'https://github.com/MultiBot-OFC/NaufraZapp-MD'
-global.paypal = 'https://www.paypal.me/NaufragoSolano'
-global.git = 'https://github.com/MultiBot-OFC/NaufraZapp-MD'
-global.linkwabot = 'https://wa.me/5491133982337?text=.menu'
-global.email = 'guardianbotmdoficial@gmail.com'
-global.grupo1 = 'https://chat.whatsapp.com/EU64G8ocaVPJElHf28HqVy'
-global.grupo2 = 'https://chat.whatsapp.com/KE2Z71nVMUcCgzLAypL8XU'
-global.canal = 'https://whatsapp.com/channel/0029VaRibRvDuMRj6ozMSN1l'
-global.paypal2 = 'https://www.paypal.me/ColaboracionBotOFC'
-global.creador = 'https://wa.me/51929838430'
-global.asistencia = 'https://wa.me/5493873232221?text=Hola'
+global.yt = 'no tengo'
+global.ig = 'no tengo'
+global.md = 'https://github.com/Jesusoo000/NewtwoBot-MD'
+global.paypal = ''
+global.git = 'https://github.com/Jesusoo000/NewtwoBot-MD'
+global.linkwabot = 'https://wa.me/5491165601378?text=.menu'
+global.email = ''
+global.grupo1 = 'https://chat.whatsapp.com/GM7KnXU35gZKBA3MjbAUtH'
+global.grupo2 = 'https://chat.whatsapp.com/GM7KnXU35gZKBA3MjbAUtH'
+global.canal = ' https://whatsapp.com/channel/0029VajIId22phHQLslZah1n'
+global.paypal2 = ''
+global.creador = 'https://wa.me/5491168758497'
+global.asistencia = 'https://wa.me/5491168758497?text=Hola'
 
 global.nzVideos = ['https://qu.ax/ygwT.mp4', 'https://qu.ax/iFCi.mp4', 'https://qu.ax/jie.mp4', 'https://qu.ax/Pbha.mp4', 'https://qu.ax/bdvm.mp4']
 global.nzAll = ['https://qu.ax/ygwT.mp4', 'https://qu.ax/iFCi.mp4', 'https://qu.ax/jie.mp4', 'https://qu.ax/Pbha.mp4', 'https://qu.ax/bdvm.mp4', iimg1, iimg2, iimg3, iimg4, iimg5]
