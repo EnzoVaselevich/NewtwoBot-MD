@@ -4,11 +4,11 @@
 <a href="https://wa.me/5491165601378"><img title="Author" src="https://img.shields.io/badge/NewtwoBot-MD-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 
-# 🔥INSTALACIÓN POR TERMUX.
+# 🤖 ɪɴsᴛᴀʟᴀᴄɪᴏɴ ᴘᴏʀ ᴛᴇʀᴍᴜx.
 * Instala el termux [aqui](https://f-droid.org/repo/com.termux_118.apk)
 
 > [!NOTE]
-> Copia los códigos uno por uno, no los pegues todos juntos a la vez.
+> 𝐂𝐨𝐩𝐢𝐚 𝐥𝐨𝐬 𝐜𝐨́𝐝𝐢𝐠𝐨𝐬 𝐮𝐧𝐨 𝐩𝐨𝐫 𝐮𝐧𝐨, 𝐧𝐨 𝐥𝐨𝐬 𝐩𝐞𝐠𝐮𝐞𝐬 𝐭𝐨𝐝𝐨𝐬 𝐣𝐮𝐧𝐭𝐨𝐬 𝐚 𝐥𝐚 𝐯𝐞𝐳.
 
 ```bash
 termux-setup-storage
@@ -29,7 +29,7 @@ yarn install && npm install
 ```bash
 npm start 
 ```
-# 🔥ACTIVAR EN CASO DE DETENERSE EN TERMUX
+# 💫 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝙲𝙰𝚂𝙾 𝙳𝙴 𝙳𝙴𝚃𝙴𝙽𝙴𝚁𝚂𝙴 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇
 
 Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
 
@@ -56,7 +56,7 @@ git clone https://github.com/EnzoVaselevich/NewtwoBot-MD && cd NewtwoBot-MD && y
 npm start
 ```
 
-# 💥CONTÁCTAME💥
+# 🐉𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗔𝗠𝗘🐉
 
 [![Picsart-24-06-07-14-00-43-215.jpg](https://telegra.ph/file/80a6799ee3a959116794e.jpg)](https://postimg.cc/JGhc3g0J)
 
