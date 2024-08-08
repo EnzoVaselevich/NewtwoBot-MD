@@ -24,7 +24,7 @@ let str = `
 ┕✿*:･ﾟﾟ･:*✿ ࣪˖
 ┌• ${usedPrefix}estado
 └•⌕ *ver estado del bot*
-┌• ${usedPrefix}nzgrupos
+┌• ${usedPrefix}grupos
 └•⌕ *ver grupos oficiales*
 ┌• ${usedPrefix}tipobot
 └•⌕ *información del bot*
