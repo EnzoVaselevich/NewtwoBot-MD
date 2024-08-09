@@ -30,7 +30,7 @@ ${name}
 「📆」𝗘𝗱𝗮𝗱:
 ${age} años
 •┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•
-ⁿᵃᵘᶠʳᵃᶻᵃᵖᵖ`
+NewtwoBot-MD`
 conn.sendMessage(m.chat, {
 text: regbot,
 contextInfo: {
